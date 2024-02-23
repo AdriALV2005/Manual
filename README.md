@@ -1,7 +1,26 @@
-# Website
+# Cat Code 
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Manuales de instalacion 
 
+Instalación combinada de Docker con GitLab, configurado con opciones de SSL y SSH para seguridad, y Valet en entorno Linux. Además, incluye la instalación del facturador con Docker, GitLab y SSL para un sistema de facturación seguro.
+
+![Logo de Markdown](https://i.ibb.co/HzYBNg3/Captura-de-pantalla-2024-02-23-160917.png)
+
+ Demo : https://bryancoronado.github.io/Manual/
+ <hr/>
+ 
+## Contenido
+
+- Manual para Script de Instalación
+- Docker + GitLab + SSL
+- Linux | Valet
+- Instalación del Facturador
+
+## Colaboradores
+- [Bryan Smith Coronado Santi](https://github.com/BryanCoronado))
+
+
+Si estas colaborando con nosotros usa los siguientes comandos:
 ### Installation
 
 ```
