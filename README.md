@@ -17,7 +17,7 @@ Instalación combinada de Docker con GitLab, configurado con opciones de SSL y S
 - Instalación del Facturador
 
 ## Colaboradores
-- [Bryan Smith Coronado Santi](https://github.com/BryanCoronado))
+- [Bryan Smith Coronado Santi](https://github.com/BryanCoronado)
 
 
 Si estas colaborando con nosotros usa los siguientes comandos:
