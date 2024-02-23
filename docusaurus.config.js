@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "BryanCoronado", // Usually your GitHub org/user name.
+  organizationName: "AdriALV2005", // Usually your GitHub org/user name.
   projectName: "Manual", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -72,7 +72,7 @@ const config = {
             label: "Manuales",
           },
           {
-            href: "https://github.com/BryanCoronado/Manual.git",
+            href: "https://github.com/AdriALV2005/Manual.git",
             label: "GitHub",
             position: "left",
           },
