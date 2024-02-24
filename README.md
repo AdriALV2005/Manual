@@ -6,7 +6,7 @@ Instalación combinada de Docker con GitLab, configurado con opciones de SSL y S
 
 ![Logo de Markdown](https://i.ibb.co/HzYBNg3/Captura-de-pantalla-2024-02-23-160917.png)
 
- Demo : https://bryancoronado.github.io/Manual/
+ Demo : https://adrialv2005.github.io/Manual/
  <hr/>
  
 ## Contenido
@@ -17,7 +17,7 @@ Instalación combinada de Docker con GitLab, configurado con opciones de SSL y S
 - Instalación del Facturador
 
 ## Colaboradores
-- [Bryan Smith Coronado Santi](https://github.com/BryanCoronado))
+- [Bryan Smith Coronado Santi](https://github.com/BryanCoronado)
 
 
 Si estas colaborando con nosotros usa los siguientes comandos:
