@@ -20,6 +20,14 @@ sidebar_position: 4
     ```bash
     nano .env  
     ```
+    Dentro del editor ubicar los parámetros y cambiarlos:
+Dentro del editor ubicar los parámetros y cambiarlos:
+
+    | Antes                                | Después                              |
+    |--------------------------------------|--------------------------------------|
+    | `APP_URL=http://${APP_URL_BASE}  FORCE_HTTPS=false`     | `APP_URL=https://${APP_URL_BASE}FORCE_HTTPS=true`     |
+    
+
 
 4. **Modificación de parámetros**
 

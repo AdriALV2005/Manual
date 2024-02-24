@@ -74,14 +74,13 @@ const config = {
           {
             href: "https://github.com/AdriALV2005/Manual.git",
             label: "GitHub",
-            position: "left",
+            position: "right",
           },
         ],
       },
 
       
       footer: {
-        style: "dark",
         links: [
           {
             title: "Manuales",

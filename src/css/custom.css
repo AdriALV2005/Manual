@@ -38,4 +38,11 @@
 .hero__subtitle{
   color: white;
 }
-
+.footer{
+  background-color: #0810A6 !important;
+  color: white;
+}
+.footer a {
+  color: white; /* Establece el color de los enlaces en blanco */
+  /* Agrega más estilos según tus necesidades */
+}
